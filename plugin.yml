@@ -1,0 +1,8 @@
+name: Vent
+author: DuckyProgrammer
+version: 1.0
+main: me.DuckyProgrammer.Vent.Main
+api-version: 1.12
+commands:
+  vent:
+    description: omg sus
